@@ -1,0 +1,42 @@
+BEGIN:VCARD
+VERSION:4.0
+FN:Malcolm Young
+N:Young;Malcolm
+ORG:Musique;ACDC
+TITLE:Guitariste rythmique
+EMAIL;INTERNET:malcolm.young@gmail.com
+TEL;TYPE=WORK:0326666666
+TEL;TYPE="work,cell,voice":0606060606
+NOTE:Paix à son âme
+END:VCARD
+BEGIN:VCARD
+VERSION:4.0
+FN:Stevie Young
+N:Young;Stevie
+ORG:Musique;ACDC
+TITLE:Guitariste rythmique
+EMAIL;INTERNET:stevie.young@gmail.com
+TEL;TYPE=WORK:0326334452
+TEL;TYPE="work,cell,voice":+33606060602
+NOTE:Neveux des frères Young, il remplace Malcolm depuis 2013.
+END:VCARD
+BEGIN:VCARD
+VERSION:4.0
+FN:Angus Young
+N:Young;Angus
+ORG:Musique;ACDC
+TITLE:Guitariste leader
+EMAIL;INTERNET:angus.young@gmail.com
+TEL;TYPE=WORK:0326334455
+TEL;TYPE="work,cell,voice":+33606060606
+NOTE:Meilleur guitariste du monde
+END:VCARD
+BEGIN:VCARD
+VERSION:4.0
+FN:Axl Rose
+N:Rose;Axl
+ORG:Musique;Gun's'n'Roses
+EMAIL;INTERNET:axl.rose@gmail.com
+TEL;TYPE=WORK:0326334451
+NOTE:Avais une super voix, mais a vieilli...
+END:VCARD

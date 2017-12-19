@@ -1,0 +1,49 @@
+###Domaine:Groupe
+Nom:Scott
+Prénom:Bon
+Entreprise:ACDC
+Fonction:Chanteur
+Email:bon.scott@gmail.com
+Téléphone1:0326666664
+Téléphone2:0606060604
+Remarque:Remplacé par Brian Johnson car décedé en 1980
+###Domaine:Informatique
+Nom:George
+Prénom:William
+Entreprise:Thales
+Fonction:Chef de projet informatique
+Email:gw_contact@thales.fr
+Téléphone1:0326517455
+Téléphone2:+33612406061
+Remarque:Type moyen
+###Domaine:Musique
+Nom:Young
+Prénom:Malcolm
+Entreprise:ACDC
+Fonction:Guitariste rythmique
+Email:malcolm.young@gmail.com
+Téléphone1:0326666666
+Téléphone2:0606060606
+Remarque:Paix à son âme
+Nom:Young
+Prénom:Stevie
+Entreprise:ACDC
+Fonction:Guitariste rythmique
+Email:stevie.young@gmail.com
+Téléphone1:0326334452
+Téléphone2:+33606060602
+Remarque:Neveux des frères Young, il remplace Malcolm depuis 2013.
+Nom:Young
+Prénom:Angus
+Entreprise:ACDC
+Fonction:Guitariste leader
+Email:angus.young@gmail.com
+Téléphone1:0326334455
+Téléphone2:+33606060606
+Remarque:Meilleur guitariste du monde
+Nom:Rose
+Prénom:Axl
+Entreprise:Gun's'n'Roses
+Email:axl.rose@gmail.com
+Téléphone1:0326334451
+Remarque:Avais une super voix, mais a vieilli...

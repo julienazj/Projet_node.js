@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+FN:Prenom Nom
+N:Nom;Prenom
+ORG:Domaine;Entreprise
+TITLE:Fonction dans l'entreprise
+EMAIL;INTERNET:email
+TEL;TYPE=WORK:telephone1
+TEL;TYPE="work,cell,voice":telephone2
+NOTE:remarque
+END:VCARD

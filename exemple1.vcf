@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+FN:Angus Young
+N:Young;Angus
+ORG:Musique;AC/DC
+TITLE:Guitariste leader
+EMAIL;INTERNET:angus.young@gmail.com
+TEL;TYPE=WORK:0326334455
+TEL;TYPE="work,cell,voice":+33606060606
+NOTE:Meilleur guitariste du monde
+END:VCARD
